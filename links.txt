@@ -1,0 +1,22 @@
+promises
+
+https://ponyfoo.com/articles/es6-promises-in-depth
+https://javascript.plainenglish.io/exploring-javascript-promises-in-depth-d07541c8ca9f
+https://mariusschulz.com/blog/javascript-promises-in-depth
+
+Async await
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+https://dmitripavlutin.com/javascript-async-await/
+https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea
+https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
+https://medium.com/@rafaelvidaurre/truly-understanding-async-await-491dd580500e
+
+Set timeout and set interval
+
+https://javascript.info/settimeout-setinterval
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals
+
+
+https://johnsmilga.com
+https://github.com/john-smilga/node-express-course
