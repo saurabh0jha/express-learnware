@@ -1,6 +1,21 @@
-const _ = require('lodash');
+const {
+    createReadStream
+} = require('fs')
 
-const arr = [1, [2, [3, [4]]]];
-const flattened = _.flattenDepth(arr, 3);
-console.log(flattened);
-console.log('Hello! The World is out there!');
+// default 64kb
+// last buffer - remainder
+// highWaterMark - control size
+// const stream = createReadStream('./content/big.txt', { highWaterMark: 90000 })
+// const stream = createReadStream('../content/big.txt', { encoding: 'utf8' })
+
+const stream = createReadStream('./content/big.txt', {
+    highWaterMark: 90000
+});
+
+stream.on('data', (result) => {
+    console.log(result);
+});
+
+stream.on('error', (error) => {
+    console.log(error);
+});

@@ -20,3 +20,17 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_
 
 https://johnsmilga.com
 https://github.com/john-smilga/node-express-course
+
+package json
+
+https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm/
+https://blog.ezekielekunola.com/understanding-the-package.json-file
+https://docs.npmjs.com/cli/v7/configuring-npm/package-json
+
+
+event loop
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+https://nodejs.dev/learn/the-nodejs-event-loop
+https://www.youtube.com/watch?v=P9csgxBgaZ8
+https://www.youtube.com/watch?v=9RhOGoChGqo
+https://dev.to/lunaticmonk/understanding-the-node-js-event-loop-phases-and-how-it-executes-the-javascript-code-1j9
